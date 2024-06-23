@@ -24,7 +24,7 @@
         xorg.libXxf86vm
         libelf
         glib
-        gtk4
+        gtk3
         bzip2
         xorg.libXinerama
         xorg.libXcursor
